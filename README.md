@@ -18,3 +18,24 @@ The `NLP` class provides a simple command-line interface for accessing natural l
 
    ```bash
    git clone https://github.com/your-username/nlp-services.git
+2. ```
+   cd nlp-services
+
+3. ```
+   python main.py
+
+## Prerequisites
+Python 3.x
+Required libraries: paralleldots (install using pip install paralleldots)
+Usage
+Run the program using the steps mentioned in the "Getting Started" section.
+Follow the on-screen instructions to either register as a new user or log in if you already have an account.
+Choose from the available NLP tasks: NER, Sentiment Analysis, or Emotion Prediction.
+Enter the provided text input for the chosen NLP task and view the results.
+Contributing
+Contributions are welcome! If you have any ideas, improvements, or bug fixes, please submit a pull request.
+
+### License
+This project is licensed under the MIT License.
+
+ 
